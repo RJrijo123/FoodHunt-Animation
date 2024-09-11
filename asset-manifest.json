@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/FoodHunt-Animation/static/css/main.91218d03.css",
+    "main.js": "/FoodHunt-Animation/static/js/main.2de33843.js",
+    "static/js/453.2cecc6e0.chunk.js": "/FoodHunt-Animation/static/js/453.2cecc6e0.chunk.js",
+    "static/media/Salad2.png": "/FoodHunt-Animation/static/media/Salad2.124b181cd415b9af68a2.png",
+    "static/media/Food22.png": "/FoodHunt-Animation/static/media/Food22.9c8d2f208e1a5c93cf96.png",
+    "static/media/food1.png": "/FoodHunt-Animation/static/media/food1.2c39286d7c2db626ae88.png",
+    "static/media/Copy.png": "/FoodHunt-Animation/static/media/Copy.fdced79281544a3e938e.png",
+    "static/media/food3.png": "/FoodHunt-Animation/static/media/food3.68c34cec91e5386edf1c.png",
+    "static/media/R.png": "/FoodHunt-Animation/static/media/R.149958fe07c90a16f911.png",
+    "static/media/food2.png": "/FoodHunt-Animation/static/media/food2.d15babd84d5c3b5b2f5b.png",
+    "static/media/FoodTopViewPngJpgBlackAndWhite.png": "/FoodHunt-Animation/static/media/FoodTopViewPngJpgBlackAndWhite.28fef8e7fd512ad42ffd.png",
+    "static/media/dash.png": "/FoodHunt-Animation/static/media/dash.887fd2ae2da610b97686.png",
+    "index.html": "/FoodHunt-Animation/index.html",
+    "main.91218d03.css.map": "/FoodHunt-Animation/static/css/main.91218d03.css.map",
+    "main.2de33843.js.map": "/FoodHunt-Animation/static/js/main.2de33843.js.map",
+    "453.2cecc6e0.chunk.js.map": "/FoodHunt-Animation/static/js/453.2cecc6e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91218d03.css",
+    "static/js/main.2de33843.js"
+  ]
+}
